@@ -158,7 +158,6 @@
 
 @media (max-width: 991px) {
   .u-section-2 .u-text-2 {
-    margin-top: -253px;
     margin-right: 0;
   }
 }
@@ -170,7 +169,6 @@
 
   .u-section-2 .u-text-2 {
     font-size: 1rem;
-    margin-top: -261px;
   }
 }
 
@@ -178,10 +176,6 @@
   .u-section-2 .u-rotation-parent-1 {
     margin-top: 143px;
     margin-right: 31px;
-  }
-
-  .u-section-2 .u-text-2 {
-    margin-top: -421px;
   }
 } .u-section-3 {
   background-image: url("images/SoFar.png");
@@ -349,7 +343,6 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-text-2 {
-    margin-top: -253px;
     margin-right: 0;
   }
 }
@@ -372,6 +365,6 @@
   }
 
   .u-section-4 .u-text-2 {
-    margin-top: -421px;
+    margin-top: 20px;
   }
 }
