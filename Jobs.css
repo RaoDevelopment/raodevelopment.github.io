@@ -304,6 +304,7 @@
   }
 
   .u-section-1 .u-group-1 {
+    margin-top: 20px;
     height: auto;
   }
 
@@ -315,6 +316,10 @@
 @media (max-width: 991px) {
   .u-section-1 .u-form-1 {
     margin-right: 291px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -792px;
   }
 }
 

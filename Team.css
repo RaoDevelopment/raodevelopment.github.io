@@ -217,12 +217,12 @@
 
 .u-section-1 .u-image-6 {
   min-height: 200px;
-  width: 200px;
+  width: 199px;
   height: auto;
   text-shadow: 0px 0px 0px rgba(0,0,0,0);
   background-image: url("images/RaoDevelopment6.png");
   background-position: 50% 50%;
-  margin: 12px auto 0 -13px;
+  margin: 12px auto 0 -12px;
 }
 
 .u-section-1 .u-container-layout-12 {
@@ -379,7 +379,7 @@
   min-height: 112px;
   height: auto;
   width: 200px;
-  margin: -212px auto 60px 0;
+  margin: -112px auto 0 -12px;
 }
 
 .u-section-1 .u-container-layout-21 {
@@ -388,7 +388,7 @@
 
 .u-section-1 .u-text-13 {
   font-weight: 500;
-  margin: 4px 19px 0;
+  margin: 0 19px;
 }
 
 .u-section-1 .u-icon-10 {
